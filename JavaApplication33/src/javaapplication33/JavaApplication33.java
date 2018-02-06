@@ -19,6 +19,7 @@ public class JavaApplication33 {
     
         System.out.println(b);//LM tu byl
         int a;
+        int b;
     }
     
 }
