@@ -12,7 +12,7 @@ package javaapplication33;
 public class JavaApplication33 {
 
     /**
-     * @param args the command line arguments
+     * @param args the command line argumentsaa
      */
     public static void main(String[] args) {
         B b=new B();
