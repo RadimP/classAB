@@ -7,17 +7,13 @@ package javaapplication33;
 
 /**
  *
- * @author Director itSTEP
+ * @author Student
  */
-public class JavaApplication33 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        B b=new B();
+public class B {
     
-        System.out.println(b);
-    }
-    
+   public B (){
+   
+   System.out.println ("funguje");
+   }
+   
 }
