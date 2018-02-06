@@ -18,6 +18,7 @@ public class JavaApplication33 {
         B b=new B();
     
         System.out.println(b);//LM tu byl
+        int a;
     }
     
 }
